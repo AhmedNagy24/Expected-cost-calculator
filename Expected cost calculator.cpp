@@ -1,9 +1,8 @@
 /*
-FCAI – Programming 1 – 2022 - Assignment 2
-Program Name: problem 2.cpp
+Program Name: Expected cost calculator.cpp
 Program Description: the program gauges the expected cost of an item in a specified number of years.
 Last Modification Date: 23/3/2022
-Author1 and ID and Group: Ahmed Nagy Ramadan Darwish. ID:20210042. group:A - S 26
+Author: Ahmed Nagy Ramadan Darwish.
 Purpose: calculate the expected price using inflation rate
 */
 #include <iostream>
